@@ -1,6 +1,9 @@
 📊 TelecomX LATAM – Análisis de Evasión de Clientes
 
-Python Pandas Matplotlib Status
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 
 📌 Descripción del Proyecto
 
