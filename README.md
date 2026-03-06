@@ -1,6 +1,6 @@
 📊 TelecomX LATAM – Análisis de Evasión de Clientes
 
-Python • Pandas • Matplotlib • Data Analysis
+Python Pandas Matplotlib Status
 
 📌 Descripción del Proyecto
 
